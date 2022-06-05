@@ -1,0 +1,7 @@
+Jednalo se o jednoduchou úlohu, nemám zdrj kod
+
+Jako vstup posíláme program v Pythonu, který spustíte a jeho výstup pošlete zpátky. Stažený soubor můžete libovolně přejmenovat, na jeho názvu nezáleží. Například kdyby vám vadilo, že má pochybnou příponu .in, tak ji změňte na .py…
+
+Kdyby se vám zavíralo okno před tím, než stihnete přečíst výstup, tak si jej pusťte v terminálu (na Windows XP a výš cmd, na Linuxu třeba konsole, xterm, rxvt, …) – jednoduše tak, že terminálu zadáte python hello.py, kde hello.py je jméno vstupního souboru.
+
+Kdyby se příkazový řádek Windows tvářil, že nezná Python, je potřeba cestu k němu přidat do PATH; v případě problémů (třeba nevíte, co vám tato věta radí) nám napište. Stručný postup je „Tento počítač → Vlastnosti → Upřesnit → Proměnné prostředí → v poli Systémové proměnné řádek Path → Upravit → přidat C:\Python34 → Ok, Ok, Ok“. Na různých verzích Windows a s různou verzí Pythonu se může postup v detailech lišit.
